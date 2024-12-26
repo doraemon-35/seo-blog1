@@ -1,7 +1,7 @@
 ![Super Useful SEO Blog & Landing Page](https://firebasestorage.googleapis.com/v0/b/sufio-86f60.appspot.com/o/github%2Fsuper-useful-seo-blog-banner.png?alt=media&token=d901bb87-3b16-461c-bcc5-d2dc2fe25350)
 
 [suf.io](https://suf.io)
-======================================
+========================================
 
 This is an open-source blogging platform built with Eleventy, TailwindCSS, and DaisyUI. It's designed to be SEO-friendly and easily customizable.
 
